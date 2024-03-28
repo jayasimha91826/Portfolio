@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    justify-content: center;
+    width: 90vw;
+    height: 100vh;
+    color: chocolate;
+
+}
+
+.para {
+    text-align: center;
+}
+
+.images {
+    margin: 5rem 0rem 0rem 10rem;
+}
+
+.photo {
+    width: 7rem;
+    height: 7rem;
+    border-radius: 5rem;
+    margin-top: 2rem;
+}
+
+.imageContainer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1.5rem;
+}
+.icons{
+    width: 2rem;
+    height: 2rem;
+    border: 2px solid black;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 2rem;
+}

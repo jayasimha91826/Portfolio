@@ -1,0 +1,19 @@
+.ulist{
+     
+     background-color:rgba(42, 224, 224, 0.918);
+     width: 40rem;
+     border-radius: 1rem;
+}
+.ulist li{
+    margin: 1rem;
+}
+.projectcontainer{
+    display: flex;
+    justify-content: center; /* Horizontally center the content */
+    align-items: center; /* Vertically center the content */
+     height: 70vh; 
+}
+.projectH2{
+    text-align: center;
+    margin-top: 2rem;
+}
